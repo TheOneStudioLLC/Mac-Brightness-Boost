@@ -69,13 +69,13 @@ Welcome to **Brightness Boost**, a key utility in the MacUtilities suite - the d
 
 ---
 
-### 📦 **Installation Options for Mac Recorder:**
+### 📦 **Installation Options for Mac Brightness Boost:**
 
-Mac Recorder can be downloaded as a standalone application or as part of the comprehensive MacUtilities suite, which includes tools for system cleaning, fan boosting, and much more.
+Mac Brightness Boost can be downloaded as a standalone application or as part of the comprehensive MacUtilities suite, which includes tools for system cleaning, fan boosting, and much more.
 
 ### 📦 **Installation Options for Brightness Boost:**
 
-Brightness Boost can be downloaded as a standalone application or as part of the comprehensive MacUtilities suite, which includes tools for screen recording, fan boosting, and system cleaning.
+Brightness Boost can be downloaded as a standalone application or as part of the comprehensive MacUtilities suite, which includes tools for screen recording, fan boosting, and much more.
 
 - **Install via Homebrew**:
     - For Brightness Boost Only: `brew install --cask mac-brightness-boost`
@@ -83,7 +83,7 @@ Brightness Boost can be downloaded as a standalone application or as part of the
 
 
 - **Download Via Direct Link**
-  - Mac Recorder Only - [Download](https://github.com/TheOneStudioLLC/Mac-Brightness-Boost/releases/download/1.0/mac-brightness-boost.dmg)
+  - Mac Brightness Boost Only - [Download](https://github.com/TheOneStudioLLC/Mac-Brightness-Boost/releases/download/1.0/mac-brightness-boost.dmg)
   - Full Mac Utilities Suite - [Download](https://github.com/TheOneStudioLLC/Mac-Utilities/releases/download/1.0/mac-utilities.dmg)
 
 
