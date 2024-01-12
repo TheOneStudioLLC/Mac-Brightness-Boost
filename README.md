@@ -7,6 +7,9 @@
 
 Welcome to **Brightness Boost**, a key utility in the MacUtilities suite - the definitive solution for managing screen brightness on MacOS. Whether you're looking to enhance your viewing experience or save energy, Brightness Boost offers intuitive controls and advanced features for all your screen brightness needs.
 
+<div align="center">
+    <img src="assets/Marketing1.png" alt="Brightness Boost Logo" width="800" height="500"/>
+</div>
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 -
